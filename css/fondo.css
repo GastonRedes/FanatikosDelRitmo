@@ -1,0 +1,6 @@
+#fondo {
+	background-color: black;
+	background-image: url(../images/fondo.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+}
